@@ -38,7 +38,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
-
+![image](images/ex002.png)
 
 
 
@@ -74,7 +74,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
-
+![image](images/ex2.2.png)
 
 
 
